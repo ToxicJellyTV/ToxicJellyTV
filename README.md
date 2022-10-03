@@ -5,7 +5,7 @@
 
 - 🌱 Ich lerne gerade: **Lua**
 
-- 👯 Ich arbeite derzeit mit an einem FiveM RP Server names: **AceV**
+- 🔭 Ich arbeite derzeit mit an einem FiveM RP Server names: **AceV**
 
 <h3 align="left">Finde mich hier:</h3>
 <p align="left">
