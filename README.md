@@ -1,18 +1,15 @@
-<h1 align="center">Hi 👋, I'm Fernando</h1>
+<h1 align="center">Hey 👋, Ich bin Fernando!</h1>
 <h3 align="center">Dude der denkt, er könnte coden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toxicjellytv&label=Profile%20views&color=0e75b6&style=flat" alt="toxicjellytv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toxicjellytv" alt="toxicjellytv" /></a> </p>
+- 🌱 Ich lerne gerade: **Lua**
 
-<p align="left"> <a href="https://twitter.com/toxicjellytv" target="blank"><img src="https://img.shields.io/twitter/follow/toxicjellytv?logo=twitter&style=for-the-badge" alt="toxicjellytv" /></a> </p>
-
-- 🌱 I’m currently learning **Lua**
-
-- 👯 I’m looking to collaborate on **AceV, ein FiveM RP**
+- 👯 Ich arbeite derzeit mit an einem FiveM RP Server names **AceV**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/QkCEazD2uq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QkCEazD2uq" height="30" width="40" /></a>
 <a href="https://twitter.com/toxicjellytv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toxicjellytv" height="30" width="40" /></a>
 <a href="https://instagram.com/toxicjellytv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toxicjellytv" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/toxicjellytv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="toxicjellytv" height="30" width="40" /></a>
