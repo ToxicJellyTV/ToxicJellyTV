@@ -25,7 +25,7 @@
 
 <h3 align="left">Software</h3>
 <p align="left"> 
-<a href="https://www.lua.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/69016398/193686234-86b5debe-fb4b-409a-b728-4cffe6e53b57.png" alt="lua" width="40" height="40"/></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/69016398/195881843-9a621393-406a-4fb5-92c6-fedf7cd679c4.png" alt="vs" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
