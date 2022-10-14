@@ -1,11 +1,11 @@
-<h1 align="center">Hey 👋, Ich bin Fernando!</h1>
+<h1 align="center">Hey👋, ich bin Fernando!</h1>
 <h3 align="center">Dude der denkt, er könnte coden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toxicjellytv&label=Profile%20views&color=0e75b6&style=flat" alt="toxicjellytv" /> </p>
 
 - 🌱 Ich lerne gerade: **Lua** & **C#**
 
-- 🔭 Ich arbeite derzeit mit an einem FiveM RP Server names: **AceV**
+- 🔭 Ich arbeite derzeit mit an einem FiveM RP Server namens: **AceV**
 
 <h3 align="left">Finde mich hier:</h3>
 <p align="left">
