@@ -5,7 +5,7 @@
 
 - 🌱 Ich lerne gerade: **Lua** & **C#**
 
-- 🔭 Ich arbeite derzeit mit an einem FiveM RP Server namens: **AceV**
+- 🔭 Ich arbeite derzeit an: **nichts**
 
 <h3 align="left">Finde mich hier:</h3>
 <p align="left">
