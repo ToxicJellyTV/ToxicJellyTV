@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toxicjellytv&label=Profile%20views&color=0e75b6&style=flat" alt="toxicjellytv" /> </p>
 
-- 🌱 Ich lerne gerade: **Lua**, **C#**
+- 👨‍💻 Ich arbeite aktiv mit **Lua** in **FiveM**
+
+- 🌱 Ich lerne zwischendurch: **Java (Android)**, **C#**
 
 - 🔭 Ich arbeite derzeit an: **nichts**
 
