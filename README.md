@@ -7,7 +7,7 @@
 
 - 🌱 Ich lerne zwischendurch: **Java (Android)**, **C#**
 
-- 🔭 Ich arbeite derzeit an: **nichts**
+- 🔭 Ich gerade kein Teil eines Projektes
 
 <h3 align="left">Finde mich hier:</h3>
 <p align="left">
