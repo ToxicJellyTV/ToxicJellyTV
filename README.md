@@ -23,7 +23,7 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/android/images/touchicon-180.png" alt="android" width="40" height="40"/>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.pikpng.com/pngl/m/344-3441694_one-of-the-most-requested-features-from-our.png" alt="android" width="40" height="40"/>
 </p>
 
 <h3 align="left">Software</h3>
