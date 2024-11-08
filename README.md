@@ -5,7 +5,7 @@
 
 - 👨‍💻 Ich arbeite aktiv mit **Lua** in **FiveM**
 
-- 🌱 Ich lerne zwischendurch: **Java (Android)**, **C#**
+- 🌱 Ich lerne zwischendurch: **Java (Android)**, **C#**, **C++ (UE5)**
 
 - 🔭 Ich bin gerade kein Teil eines Projektes
 
